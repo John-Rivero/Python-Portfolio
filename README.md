@@ -29,7 +29,7 @@
 - [Treasure Island Choose Your Adventure Game](#Treasure-Island-Choose-Your-Adventure-Game)
 
 
-## [Basketball Free Throws Analysis]
+## [Basketball Free Throws Analysis](https://github.com/John-Rivero/Python-Projects/tree/main/Basketball%20Free%20Throws%20Analysis)
 
 This Python project involves analyzing basketball statistics including Free Throws and Free Throw Attempts. The task is to create three plots that illustrate the number of Free Throw Attempts per game, the accuracy of Free Throws, and player's playing style (2 vs 3 points preference) excluding Free Throws. The data is provided in the form of vectors, and the first step is to create two matrices for further analysis.
 
