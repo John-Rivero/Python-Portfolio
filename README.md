@@ -1,9 +1,12 @@
 # Python Projects
-### Table of Contents
+# Table of Contents
 
 [ Treasure Island Choose Your Adventure Game](https://github.com/John-Rivero/Python-Projects/tree/main/Treasure-Island-Choose-Your-Adventure)
 
 This Python project is a choose your own adventure game called "Treasure Island." Players make choices at each stage of the story, which determine the path they take to find the treasure on the island. With multiple possible endings, the game is interactive and engaging for players.
+
+
+
 
 [ Rock-Paper-Scissor Game](https://github.com/John-Rivero/Python-Projects/tree/main/Rock-Paper-Scissor-Game)
 
