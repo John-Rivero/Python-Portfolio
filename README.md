@@ -2,7 +2,7 @@
 # Table of Contents
 
 
-- [Basketball Free Throws Analysis]
+- [Basketball Free Throws Analysis](#Basketball-Free-Throws-Analysis)
 
 - [Virtual Coffee Vending Machine](#Virtual-Coffee-Vending-Machine)
 
