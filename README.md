@@ -1,28 +1,30 @@
 # Python Projects
 ### Table of Contents
 
-[1. Treasure Island Choose Your Adventure Game](https://github.com/John-Rivero/Python-Projects/tree/main/Treasure-Island-Choose-Your-Adventure)
+[ Treasure Island Choose Your Adventure Game](https://github.com/John-Rivero/Python-Projects/tree/main/Treasure-Island-Choose-Your-Adventure)
 
-[2. Rock-Paper-Scissor Game](https://github.com/John-Rivero/Python-Projects/tree/main/Rock-Paper-Scissor-Game)
+This Python project is a choose your own adventure game called "Treasure Island." Players make choices at each stage of the story, which determine the path they take to find the treasure on the island. With multiple possible endings, the game is interactive and engaging for players.
 
-[3. Password Generator](https://github.com/John-Rivero/Python-Projects/tree/main/Password-Generator)
+[ Rock-Paper-Scissor Game](https://github.com/John-Rivero/Python-Projects/tree/main/Rock-Paper-Scissor-Game)
 
-[4. Band Name Generator](https://github.com/John-Rivero/Python-Projects/tree/main/Band-Name-Generator)
+[ Password Generator](https://github.com/John-Rivero/Python-Projects/tree/main/Password-Generator)
 
-[5. Hangman Game](https://github.com/John-Rivero/Python-Projects/tree/main/Hangman-Game)
+[ Band Name Generator](https://github.com/John-Rivero/Python-Projects/tree/main/Band-Name-Generator)
 
-[6. Tip Calculator](https://github.com/John-Rivero/Python-Projects/tree/main/Tip-Calculator)
+[ Hangman Game](https://github.com/John-Rivero/Python-Projects/tree/main/Hangman-Game)
 
-[7. Caesar Cypher](https://github.com/John-Rivero/Python-Projects/tree/main/Caesar-Cypher)
+[ Tip Calculator](https://github.com/John-Rivero/Python-Projects/tree/main/Tip-Calculator)
 
-[8. Blind Auction](https://github.com/John-Rivero/Python-Projects/tree/main/Blind-Auction)
+[ Caesar Cypher](https://github.com/John-Rivero/Python-Projects/tree/main/Caesar-Cypher)
 
-[9. Calculator App](https://github.com/John-Rivero/Python-Projects/tree/main/Calculator-App)
+[ Blind Auction](https://github.com/John-Rivero/Python-Projects/tree/main/Blind-Auction)
 
-[10. BlackJack Game](https://github.com/John-Rivero/Python-Projects/tree/main/Blackjack-Game)
+[ Calculator App](https://github.com/John-Rivero/Python-Projects/tree/main/Calculator-App)
 
-[11. Number Guessing Game](https://github.com/John-Rivero/Python-Projects/tree/main/Number-Guessing-Game)
+[ BlackJack Game](https://github.com/John-Rivero/Python-Projects/tree/main/Blackjack-Game)
 
-[11. Higher-Lower Game](https://github.com/John-Rivero/Python-Projects/tree/main/Higher-Lower-Game)
+[ Number Guessing Game](https://github.com/John-Rivero/Python-Projects/tree/main/Number-Guessing-Game)
 
-[11. Virtual Coffee Vending Machine](https://github.com/John-Rivero/Python-Projects/tree/main/Higher-Lower-Game)
+[ Higher-Lower Game](https://github.com/John-Rivero/Python-Projects/tree/main/Higher-Lower-Game)
+
+[ Virtual Coffee Vending Machine](https://github.com/John-Rivero/Python-Projects/tree/main/Higher-Lower-Game)
