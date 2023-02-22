@@ -7,28 +7,65 @@
 - [Treasure Island Choose Your Adventure Game](#Treasure-Island-Choose-Your-Adventure-Game)
 
 
-[ Band Name Generator](https://github.com/John-Rivero/Python-Projects/tree/main/Band-Name-Generator)
-
-[ Hangman Game](https://github.com/John-Rivero/Python-Projects/tree/main/Hangman-Game)
-
-[ Tip Calculator](https://github.com/John-Rivero/Python-Projects/tree/main/Tip-Calculator)
-
-[ Caesar Cypher](https://github.com/John-Rivero/Python-Projects/tree/main/Caesar-Cypher)
-
-[ Blind Auction](https://github.com/John-Rivero/Python-Projects/tree/main/Blind-Auction)
-
-[ Calculator App](https://github.com/John-Rivero/Python-Projects/tree/main/Calculator-App)
-
-[ BlackJack Game](https://github.com/John-Rivero/Python-Projects/tree/main/Blackjack-Game)
-
-[ Number Guessing Game](https://github.com/John-Rivero/Python-Projects/tree/main/Number-Guessing-Game)
-
-[ Higher-Lower Game](https://github.com/John-Rivero/Python-Projects/tree/main/Higher-Lower-Game)
-
-[ Virtual Coffee Vending Machine](https://github.com/John-Rivero/Python-Projects/tree/main/Higher-Lower-Game)
 
 
-## [ Band Name Generator](https://github.com/John-Rivero/Python-Projects/tree/main/Band-Name-Generator)
+
+
+
+
+
+## [Virtual Coffee Vending Machine](https://github.com/John-Rivero/Python-Projects/tree/main/Higher-Lower-Game)
+
+
+This Python project simulates a virtual coffee vending machine that takes user input for their preferred type of coffee and payment method, and dispenses the corresponding drink. The program includes a selection of different types of coffee and payment methods, and can keep track of the user's remaining balance. The project can help to develop programming skills such as handling data structures and implementing logic for simulating real-world processes, and is a fun and educational way to explore the world of coffee and vending machines. The program can be run on the command line or integrated into a larger project as a sub-routine.
+
+
+## [Number Guessing Game](https://github.com/John-Rivero/Python-Projects/tree/main/Number-Guessing-Game)
+
+
+This Python project is a "Higher Lower" guessing number game that generates a random number and asks the user to guess whether the next number will be higher or lower. The program keeps track of the user's correct and incorrect guesses and ends the game after a set number of rounds. The project can help to develop programming skills such as random number generation, conditional statements, and loops, and is a fun and educational way to practice probability and prediction skills. The game can be run on the command line or integrated into a larger project as a sub-routine.
+
+
+This Python project is a simple number guessing game that generates a random number and asks the user to guess it. The program takes input from the user for their guess and tells them whether it is too high or too low. The user continues to guess until they correctly guess the number. The project can help to develop programming skills such as random number generation and conditional statements, and is a fun and educational way to practice logic and problem-solving skills. The game can be run on the command line or integrated into a larger project as a sub-routine.
+
+
+## [BlackJack Game](https://github.com/John-Rivero/Python-Projects/tree/main/Blackjack-Game)
+
+
+This Python project is a simple implementation of the popular card game, Blackjack. The program generates a deck of cards and deals two cards to the player and dealer. The player can then decide to hit or stand to try to get as close to 21 as possible without going over. The dealer then reveals their hand and hits until their hand value is greater than 16. The project can help to develop programming skills such as handling data structures and implementing game logic, and is a fun and educational way to explore the game of Blackjack.
+
+
+## [Calculator App](https://github.com/John-Rivero/Python-Projects/tree/main/Calculator-App)
+
+
+This Python project is a calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program takes input from the user for the two numbers and the operation to perform, and then calculates the result based on the selected operation. The project can help to develop programming skills such as basic arithmetic and handling user input, and is a practical tool for anyone looking to perform quick calculations. The application can be run on the command line or integrated into a larger project as a sub-routine.
+
+
+## [Blind Auction](https://github.com/John-Rivero/Python-Projects/tree/main/Blind-Auction)
+
+
+This Python project is a blind auction program that enables multiple bidders to bid on an item anonymously. The project takes input from the user for the item name and the number of bidders, and then allows each bidder to submit their bid without knowing the other bidders' offers. The program tracks each bid and announces the highest bidder at the end of the auction. The project can help to develop programming skills such as loops, conditional statements, and data structures, and is a practical tool for conducting private and competitive auctions.
+
+
+## [Caesar Cypher](https://github.com/John-Rivero/Python-Projects/tree/main/Caesar-Cypher)
+
+
+This Python project is a Caesar Cipher program that encodes and decodes messages based on a user-specified shift value. The Caesar Cipher is a simple encryption technique that shifts each letter in the message by a certain number of positions in the alphabet. The project takes input from the user for the message and the shift value, and then performs the encryption or decryption based on the user's selection. The project can help to develop programming skills such as string manipulation and algorithms, and is a fun and educational way to explore encryption techniques.
+
+
+## [Tip Calculator](https://github.com/John-Rivero/Python-Projects/tree/main/Tip-Calculator)
+
+
+This Python project is a tip calculator that calculates the appropriate tip amount based on a user-specified percentage, and also splits the bill between multiple people. The calculator takes input from the user for the bill amount, tip percentage, and the number of people splitting the bill, and then calculates the tip amount and total bill amount. The project can help to develop programming skills such as basic arithmetic and handling user input, and is a practical tool for anyone looking to quickly calculate the appropriate tip amount.
+
+
+## [Hangman Game](https://github.com/John-Rivero/Python-Projects/tree/main/Hangman-Game)
+
+
+This Python project is a classic hangman game, in which players guess a word by suggesting letters within a certain number of attempts. The game is played against the computer, and the player has to guess the word before their attempts run out, with each incorrect guess resulting in a step towards hanging a stick figure. The project can help to develop programming skills such as string manipulation and conditional statements, and is a fun and interactive way to practice spelling and vocabulary.
+
+
+## [Band Name Generator](https://github.com/John-Rivero/Python-Projects/tree/main/Band-Name-Generator)
 
 
 This Python project is a band name generator that creates unique and catchy band names based on various user inputs, such as the user's name, birthplace, or favorite color. The project uses algorithms and data sets to generate original and interesting names that can inspire creativity and provide a starting point for aspiring musicians or anyone in need of a name for their project or brand. The project is a fun and lighthearted way to explore the power of language and programming.
