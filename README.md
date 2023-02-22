@@ -2,14 +2,31 @@
 # Table of Contents
 
 
-- [Rock-Paper-Scissor-Game](#Rock-Paper-Scissor-Game)
+
+
+- [Virtual Coffee Vending Machine](#Virtual-Coffee-Vending-Machine)
+
+- [Number Guessing Game](#Number-Guessing-Game)
+
+- [BlackJack Game](#BlackJack-Game)
+
+- [Calculator App](#Calculator-App)
+
+- [Blind Auction](#Blind-Auction)
+
+- [Caesar Cypher](#Caesar-Cypher)
+
+- [Tip Calculator](#Tip-Calculator)
+
+- [Hangman Game](#Hangman-Game)
+
+- [Band Name Generator](#Band-Name-Generator)
+
+- [Password Generator](#Password-Generator)
+
+- [Rock Paper Scissor Game](#Rock-Paper-Scissor-Game)
 
 - [Treasure Island Choose Your Adventure Game](#Treasure-Island-Choose-Your-Adventure-Game)
-
-
-
-
-
 
 
 
@@ -21,9 +38,6 @@ This Python project simulates a virtual coffee vending machine that takes user i
 
 
 ## [Number Guessing Game](https://github.com/John-Rivero/Python-Projects/tree/main/Number-Guessing-Game)
-
-
-This Python project is a "Higher Lower" guessing number game that generates a random number and asks the user to guess whether the next number will be higher or lower. The program keeps track of the user's correct and incorrect guesses and ends the game after a set number of rounds. The project can help to develop programming skills such as random number generation, conditional statements, and loops, and is a fun and educational way to practice probability and prediction skills. The game can be run on the command line or integrated into a larger project as a sub-routine.
 
 
 This Python project is a simple number guessing game that generates a random number and asks the user to guess it. The program takes input from the user for their guess and tells them whether it is too high or too low. The user continues to guess until they correctly guess the number. The project can help to develop programming skills such as random number generation and conditional statements, and is a fun and educational way to practice logic and problem-solving skills. The game can be run on the command line or integrated into a larger project as a sub-routine.
