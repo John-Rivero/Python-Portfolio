@@ -1,7 +1,7 @@
 # Python Projects
 # Table of Contents
 
--[1. Comparing Top 9 NBA Earners' Salaries in 2022 and 2023 Using Python's BeautifulSoup Web Scraping and Analyzing with Pandas and Numpy](#1-Comparing-Top-9-NBA-Earners'-Salaries-in-2022-and-2023-Using-Python's-BeautifulSoup-Web-Scraping-and-Analyzing-with-Pandas-and-Numpy)
+- [1. Comparing Top 9 NBA Earners' Salaries in 2022 and 2023 Using Python's BeautifulSoup Web Scraping and Analyzing with Pandas and Numpy](#1-Comparing-Top-9-NBA-Earners'-Salaries-in-2022-and-2023-Using-Python's-BeautifulSoup-Web-Scraping-and-Analyzing-with-Pandas-and-Numpy)
 
 - [Basketball Free Throws Analysis](#Basketball-Free-Throws-Analysis)
 
