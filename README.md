@@ -1,6 +1,7 @@
 # Python Projects
 # Table of Contents
 
+-[2022 vs 2023 NBA Top 9 Earners Salary Web Scraping and Analysis](
 
 - [Basketball Free Throws Analysis](#Basketball-Free-Throws-Analysis)
 
@@ -27,6 +28,11 @@
 - [Rock Paper Scissor Game](#Rock-Paper-Scissor-Game)
 
 - [Treasure Island Choose Your Adventure Game](#Treasure-Island-Choose-Your-Adventure-Game)
+
+
+## [2022 vs 2023 NBA Top 9 Earners Salary Web Scraping and Analysis](https://github.com/John-Rivero/Python-Projects/tree/main/2022%20vs%202023%20NBA%20Top%209%20Earners%20Salary%20Web%20Scraping%20and%20Analysis)
+
+This Python project uses Python's Beautifulsoup web scraping feature to investigate the earnings of the highest-paid NBA players in the 2023 season compared to their earnings in 2022. The analysis involves Python's Pandas and Numpy libraries.
 
 
 ## [Basketball Free Throws Analysis](https://github.com/John-Rivero/Python-Projects/tree/main/Basketball%20Free%20Throws%20Analysis)
