@@ -10,7 +10,7 @@
 - The program's objective is to create a graphical user interface using Python's Tkinter library for converting distances from miles to kilometers.
 
 
-## Code:
+## Code
 
 
 ![Miles to Kilometer Converter GUI Image](https://user-images.githubusercontent.com/81208412/224532165-fd00a2c2-0cc6-4db2-bded-66bb1ef59de5.jpg)
