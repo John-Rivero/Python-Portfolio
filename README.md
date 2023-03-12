@@ -35,10 +35,13 @@
 ## [1. Comparing Top 9 NBA Earners' Salaries in 2022 and 2023 Using Python's BeautifulSoup Web Scraping and Analyzing with Pandas and Numpy](https://github.com/John-Rivero/Python-Projects/tree/main/1.%20Comparing%20Top%209%20NBA%20Earners'%20Salaries%20in%202022%20and%202023%20Using%20Python's%20BeautifulSoup%20Web%20Scraping%20and%20Analyzing%20with%20Pandas%20and%20Numpy)
 
 
-## [2.Miles to Km Converter GUI using Tkinker]
-
-
 This project focuses on analyzing the salaries of the highest-earning NBA players in both the 2022 and 2023 seasons. The aim is to compare the salaries of the top earners in these two seasons, with a particular focus on the top 9 earners. To achieve this, the project utilized Python's Beautifulsoup web scraping feature to extract the relevant data. The data were then analyzed using Python's Pandas and Numpy libraries. The analysis involved exploring the salaries of the top earners, identifying the highest earners in each season, and comparing the earnings between the two seasons. The project provides insights into the trends and changes in the salaries of the top NBA earners, highlighting any significant differences or similarities between the two seasons.
+
+
+## [2.Miles to Km Converter GUI using Tkinker](https://github.com/John-Rivero/Python-Projects/tree/main/2.%20Miles%20to%20Km%20Converter%20GUI%20using%20Tkinker)
+
+
+This program is a graphical user interface (GUI) application built with Tkinter, a Python library for creating GUIs. It allows users to convert distances measured in miles to kilometers easily. The interface includes two input fields for the number of miles and the equivalent number of kilometers. The program also includes buttons for clearing the input fields or exiting the program.
 
 
 ## [Basketball Free Throws Analysis](https://github.com/John-Rivero/Python-Projects/tree/main/Basketball%20Free%20Throws%20Analysis)
