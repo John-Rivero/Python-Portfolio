@@ -3,7 +3,7 @@
 
 - [1. Comparing Top 9 NBA Earners' Salaries in 2022 and 2023 Using Python's BeautifulSoup Web Scraping and Analyzing with Pandas and Numpy](#1-Comparing-Top-9-NBA-Earners-Salaries-in-2022-and-2023-Using-Pythons-BeautifulSoup-Web-Scraping-and-Analyzing-with-Pandas-and-Numpy)
 
-- [2.Miles to Km Converter GUI using Tkinker](#2-Miles-to-Km-Converter-GUI-using-Tkinker)
+- [2. Miles to Km Converter GUI using Tkinker](#2-Miles-to-Km-Converter-GUI-using-Tkinker)
 
 - [Basketball Free Throws Analysis](#Basketball-Free-Throws-Analysis)
 
@@ -38,7 +38,7 @@
 This project focuses on analyzing the salaries of the highest-earning NBA players in both the 2022 and 2023 seasons. The aim is to compare the salaries of the top earners in these two seasons, with a particular focus on the top 9 earners. To achieve this, the project utilized Python's Beautifulsoup web scraping feature to extract the relevant data. The data were then analyzed using Python's Pandas and Numpy libraries. The analysis involved exploring the salaries of the top earners, identifying the highest earners in each season, and comparing the earnings between the two seasons. The project provides insights into the trends and changes in the salaries of the top NBA earners, highlighting any significant differences or similarities between the two seasons.
 
 
-## [2.Miles to Km Converter GUI using Tkinker](https://github.com/John-Rivero/Python-Projects/tree/main/2.%20Miles%20to%20Km%20Converter%20GUI%20using%20Tkinker)
+## [2. Miles to Km Converter GUI using Tkinker](https://github.com/John-Rivero/Python-Projects/tree/main/2.%20Miles%20to%20Km%20Converter%20GUI%20using%20Tkinker)
 
 
 This program is a graphical user interface (GUI) application built with Tkinter, a Python library for creating GUIs. It allows users to convert distances measured in miles to kilometers easily. The interface includes two input fields for the number of miles and the equivalent number of kilometers. The program also includes buttons for clearing the input fields or exiting the program.
