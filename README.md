@@ -3,7 +3,7 @@
 
 - [1. Comparing Top 9 NBA Earners' Salaries in 2022 and 2023 Using Python's BeautifulSoup Web Scraping and Analyzing with Pandas and Numpy](#1-Comparing-Top-9-NBA-Earners-Salaries-in-2022-and-2023-Using-Pythons-BeautifulSoup-Web-Scraping-and-Analyzing-with-Pandas-and-Numpy)
 
-- [2. Miles to Km Converter GUI using Tkinker](#2-Miles-to-Km-Converter-GUI-using-Tkinker]
+- [2. Miles to Km Converter GUI using Tkinker](#2-Miles-to-Km-Converter-GUI-using-Tkinker)
 
 - [Basketball Free Throws Analysis](#Basketball-Free-Throws-Analysis)
 
