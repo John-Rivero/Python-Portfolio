@@ -7,6 +7,8 @@
 
 - [3. Password Manager with GUI](#3-Password-Manager-with-GUI)
 
+- [4. Send a Birthday Email](#4-Send-a-Birthday-Email)
+
 - [Basketball Free Throws Analysis](#Basketball-Free-Throws-Analysis)
 
 - [Virtual Coffee Vending Machine](#Virtual-Coffee-Vending-Machine)
@@ -51,6 +53,11 @@ This program is a graphical user interface (GUI) application built with Tkinter,
 
 This program is a graphical user interface (GUI) application built with Tkinter, a Python library for creating GUIs. This is a password manager program that helps users manage their email and password for different websites. The program auto-generates secure passwords and saves the details in a text file named “data.txt” for easy access and organization. This makes it easier for users to keep track of their login information and ensures that their accounts are protected with strong passwords.
 
+
+## [4. Send a Birthday Email](https://github.com/John-Rivero/Python-Projects/tree/main/4.%20Send%20a%20Birthday%20Email)
+
+
+This program is a graphical user interface (GUI) application built with Tkinter, a Python library for creating GUIs. This is a password manager program that helps users manage their email and password for different websites. The program auto-generates secure passwords and saves the details in a text file named “data.txt” for easy access and organization. This makes it easier for users to keep track of their login information and ensures that their accounts are protected with strong passwords.
 
 
 ## [Basketball Free Throws Analysis](https://github.com/John-Rivero/Python-Projects/tree/main/Basketball%20Free%20Throws%20Analysis)
