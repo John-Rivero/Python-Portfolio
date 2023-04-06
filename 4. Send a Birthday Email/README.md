@@ -1,28 +1,22 @@
 
-## Title: Password Manager with GUI
+## Title: Send a Birthday Email
 
 ## Program by: John Rivero
 
-## Date: March 19, 2023
+## Date: April 6, 2023
 
 
 ## Task
 
-- The program's objective is to manage email and password for different websites by auto-generating secure passwords and saving the details in a text file named “data” for easy access and organization.
+- The program's objective is to send birthday emails using smtplib and manage the date using datetime, automating personalized birthday greetings with accuracy.
 
 
 ## Code
 
-![image2](https://user-images.githubusercontent.com/81208412/226157390-e61d98f7-6319-4563-9a1c-aed909aa6597.jpg)
+![Code image](https://user-images.githubusercontent.com/81208412/230471319-525c1b6b-03e0-4ee5-aa4b-cd7740783fc0.jpg)
+
 
 
 ## Result
 
-- The program features an executable file named main.exe that compiles information such as website names, emails/usernames, and passwords into a text file named data.txt.
-
-
-![image](https://user-images.githubusercontent.com/81208412/226158138-b0aab6be-415a-4a8f-92a3-ede69ada15df.jpg)
-
-- Below is the example of the application.
-
-![image4](https://user-images.githubusercontent.com/81208412/226158771-15f2d6e9-294d-47c8-a20d-b98700698220.jpg)
+![Result Image](https://user-images.githubusercontent.com/81208412/230471375-daf5b951-2322-43d7-9ebf-64857749297a.jpg)
