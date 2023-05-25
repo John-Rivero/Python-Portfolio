@@ -17,4 +17,4 @@
 
 -   Below is an example of the SMS from the program
 
-![Image alt text2](image\result.jpg)
+![Image alt text2](image/result.jpg)
