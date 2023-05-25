@@ -10,4 +10,4 @@
 
 ## Code
 
-image\code.jpg
+![Image alt text](image/code.jpg)
