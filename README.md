@@ -40,7 +40,7 @@
 - [33. Treasure-Island-Choose-Your-Adventure](#33-Treasure-Island-Choose-Your-Adventure)
 
 
-## [15. Hourly Rain SMS Notification](https://github.com/John-Rivero/Python-Projects/tree/main/2.%20Hourly%20Rain%20SMS%20Notification)
+## [15. Hourly Rain SMS Notification](https://github.com/John-Rivero/Python-Projects/tree/main/15.%20Hourly%20Rain%20SMS%20Notification)
 
 
 This project will create a Python program that sends an automatic SMS for the next 12 hours every hour regarding whether it is sunny or if it is going to rain. The program will use the OpenWeatherMap API to get the weather forecast for the user's location. The program will then send an SMS message using Twillo's API to the targeted phone number with the forecast for the next hour.
