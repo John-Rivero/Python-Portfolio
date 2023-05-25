@@ -10,4 +10,4 @@
 
 ## Code
 
-![image](image\code.jpg)
+image\code.jpg
