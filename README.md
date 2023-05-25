@@ -5,6 +5,10 @@
 
 - [2. Miles to Km Converter GUI using Tkinker](#2-Miles-to-Km-Converter-GUI-using-Tkinker)
 
+- [3. Password Manager with GUI](#3-Password-Manager-with-GUI)
+
+- [4. Send a Birthday Email](#4-Send-a-Birthday-Email)
+
 - [Basketball Free Throws Analysis](#Basketball-Free-Throws-Analysis)
 
 - [Virtual Coffee Vending Machine](#Virtual-Coffee-Vending-Machine)
@@ -42,6 +46,18 @@ This project focuses on analyzing the salaries of the highest-earning NBA player
 
 
 This program is a graphical user interface (GUI) application built with Tkinter, a Python library for creating GUIs. It allows users to convert distances measured in miles to kilometers easily. The interface includes two input fields for the number of miles and the equivalent number of kilometers. The program also includes buttons for clearing the input fields or exiting the program.
+
+
+## [3. Password Manager with GUI](https://github.com/John-Rivero/Python-Projects/tree/main/3.%20Password%20Manager%20with%20GUI)
+
+
+This program is a graphical user interface (GUI) application built with Tkinter, a Python library for creating GUIs. This is a password manager program that helps users manage their email and password for different websites. The program auto-generates secure passwords and saves the details in a text file named “data.txt” for easy access and organization. This makes it easier for users to keep track of their login information and ensures that their accounts are protected with strong passwords.
+
+
+## [4. Send a Birthday Email](https://github.com/John-Rivero/Python-Projects/tree/main/4.%20Send%20a%20Birthday%20Email)
+
+
+This project is designed to streamline birthday celebrations by automating the process of sending personalized birthday emails. Leveraging the smtplib library for email functionality and datetime for date management, this project allows users to set up automated birthday emails that are sent on the exact date of the recipient's birthday. With minimal setup, users can easily configure the project to send personalized birthday greetings, making it a convenient and efficient way to keep in touch with loved ones on their special day. Say goodbye to manual birthday emails and let this project handle the task for you!
 
 
 ## [Basketball Free Throws Analysis](https://github.com/John-Rivero/Python-Projects/tree/main/Basketball%20Free%20Throws%20Analysis)
