@@ -1,6 +1,8 @@
 # Python Projects
 # Table of Contents
 
+- [14. Stock Movement Alert](#14-Stock-Movement-Alert)
+
 - [15. Hourly Rain SMS Notification](#15-Hourly-Rain-SMS-Notification)
 
 - [16. Password Manager with GUI](#16-Password-Manager-with-GUI)
@@ -38,6 +40,12 @@
 - [32. Tip-Calculator](#32-Tip-Calculator)
 
 - [33. Treasure-Island-Choose-Your-Adventure](#33-Treasure-Island-Choose-Your-Adventure)
+
+
+## [14. Stock Movement Alert](https://github.com/John-Rivero/Python-Projects/tree/main/15.%20Hourly%20Rain%20SMS%20Notification)
+
+
+The Stock Price Movement Pushover Notification is a Python project designed to provide real-time notifications whenever a specified stock experiences a price movement exceeding 5 percent. The project leverages various APIs to obtain stock data, including the AlphaVantage API for accessing opening and closing prices, the News API for gathering relevant news updates, and the messaging API from Pushover for delivering notifications to users.
 
 
 ## [15. Hourly Rain SMS Notification](https://github.com/John-Rivero/Python-Projects/tree/main/15.%20Hourly%20Rain%20SMS%20Notification)
