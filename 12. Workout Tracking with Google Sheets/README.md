@@ -12,6 +12,6 @@
 
 -   Below is a screenshot of the code.
 
-![Image alt text](image\sc.png)
+![Image alt text](sc.png)
 
 
