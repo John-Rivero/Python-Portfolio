@@ -2,7 +2,7 @@
 # Table of Contents
 
 
-- [12. Workout Tracking with Google Sheetsr](#12-Workout-Tracking-with-Google-Sheets)
+- [12. Workout Tracking with Google Sheets](#12-Workout-Tracking-with-Google-Sheets)
 
 - [13. Habit Tracker](#13-Habit-Tracker)
 
