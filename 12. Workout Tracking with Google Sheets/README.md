@@ -1,4 +1,4 @@
-## Title: Workout Trackiong with Google Sheets
+## Title: Workout Tracking with Google Sheets
 
 ## Program by: John Rivero
 
@@ -12,11 +12,6 @@
 
 -   Below is a screenshot of the code.
 
-![Image alt text](image/code.jpg)
+![Image alt text](image\sc.png)
 
 
-## Result
-
--   Below is the example of the Pixela graph.
-
-![Image alt text2](image/result.jpg)
